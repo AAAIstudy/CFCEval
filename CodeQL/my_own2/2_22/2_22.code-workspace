@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "[db_3_20 source archive]",
+			"uri": "codeql-zip-archive://1-35/d:\\000_PHD_project\\db_3_20\\src.zip"
+		}
+	],
+	"settings": {
+		"codeQL.createQuery.qlPackLocation": "D:\\000_PHD_project\\codeql-main\\python\\ql\\src\\Security\\my_own2"
+	}
+}
